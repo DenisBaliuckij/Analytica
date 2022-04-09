@@ -32,7 +32,7 @@
     ]
   },
   "devDependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "redux-devtools-extension": "^2.13.8"
   }
 }
